@@ -11,3 +11,4 @@ dependencies:
   - jupyterlab_widgets=3.0.*
   - nglview=3.1.*
   - pymol-bundle
+  - catch2
