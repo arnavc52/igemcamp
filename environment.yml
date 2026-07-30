@@ -1,0 +1,6 @@
+name: igemcamp
+channels:
+  - defaults
+dependencies:
+  - pymol-bundle
+  - nglview
