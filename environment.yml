@@ -1,6 +1,7 @@
 name: igemcamp
 channels:
-  - defaults
+  - conda-forge
+  - schrodinger
 dependencies:
   - pymol-bundle
   - nglview
