@@ -1,7 +1,6 @@
 name: igemcamp
 channels:
   - conda-forge
-  - schrodinger
 dependencies:
   - python=3.11
   - ipykernel=6.29.*
@@ -10,5 +9,4 @@ dependencies:
   - ipywidgets=8.1.*
   - jupyterlab_widgets=3.0.*
   - nglview=3.1.*
-  - pymol-bundle
-  - catch2
+  - pymol-open-source
